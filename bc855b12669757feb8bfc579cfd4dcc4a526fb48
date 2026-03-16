@@ -1,0 +1,60 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "bc855b12669757feb8bfc579cfd4dcc4a526fb48",
+  "prompts": {
+    "3f4213a23b467a77": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019cf895-c509-7160-b57d-8ace62147d98",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Samaila Bala <samailabalap@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "53be03ffbf217d47": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019cf7ed-eff3-7e52-af5c-766e74f38de7",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Samaila Bala <samailabalap@gmail.com>",
+      "messages": [],
+      "total_additions": 363,
+      "total_deletions": 355,
+      "accepted_lines": 206,
+      "overriden_lines": 0
+    },
+    "70269afab7813260": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019cf776-0b5b-7f71-a723-98a9525158bf",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Samaila Bala <samailabalap@gmail.com>",
+      "messages": [],
+      "total_additions": 1436,
+      "total_deletions": 1182,
+      "accepted_lines": 151,
+      "overriden_lines": 0
+    },
+    "c73cec5e07390ef0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019cf896-9284-7601-9d78-53df6b8c898d",
+        "model": "unknown"
+      },
+      "human_author": "Samaila Bala <samailabalap@gmail.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
