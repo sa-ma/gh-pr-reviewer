@@ -1,6 +1,6 @@
-# gh-pr-reviewer
+# PRISM
 
-`gh-pr-reviewer` is a Next.js app that reviews GitHub pull requests with OpenAI and streams the result back to the browser.
+`prism` is a Next.js app that reviews GitHub pull requests with OpenAI and streams the result back to the browser.
 
 Paste a canonical GitHub PR URL, choose a review focus and mode, and the app will:
 
